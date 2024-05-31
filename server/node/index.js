@@ -15,7 +15,8 @@ app.use(bodyParser.json({ limit: '50mb' }));
 
 app.use('/api', paymentRouter.routes)
 
-const port = process.env.PORT || 5001;
+// const port = process.env.PORT || 5001;
+const port = 5001;
 app.listen(port, () => {
   console.log(`server started @ ${port}`)
 })
