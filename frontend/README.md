@@ -20,7 +20,6 @@ The Tender Bidding System aims to streamline the tender bidding process by provi
 ### My Features
 - **Q&A Page/Help Desk (To be Implemented)**: A platform for users to ask questions and receive responses.
 - **Payment Gateway and Invoice Generation**: Secure payment processing and invoice generation.
-- **Notifications and Alerts**: Real-time updates and alerts for tender and bid activities.
 
 ## Prerequisites
 Ensure the following software is installed on your machine:
