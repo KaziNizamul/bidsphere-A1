@@ -5,6 +5,9 @@ Bidsphere-A1 is a comprehensive platform for managing tender bidding processes. 
 <hr>
 
 Deployment Link: https://bidsphere-a1-frontend.onrender.com
+Individual Repo Link: 
+- GitHub: https://github.com/KaziNizamul/bidsphere-A1
+- GitLab: https://git.cs.dal.ca/nkazi/csci_5709_b00961418/-/tree/main/Assignments/Assignment1?ref_type=heads
 
 <hr>
 
